@@ -1,0 +1,5 @@
+<?PHP
+$TEXT ="VISHVA";
+
+ECHO STRLEN($TEXT);
+?>
